@@ -1,6 +1,6 @@
-## 🛠️ **Meine Fähigkeiten & Technologien**
+## 🛠️ **My Skills & Technologies**
 
-### 🌐 **Programmiersprachen**
+### 🌐 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -11,7 +11,7 @@
 
 ---
 
-### 🎨 **Frontend-Technologien**
+### 🎨 **Frontend Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -21,7 +21,7 @@
 
 ---
 
-### ⚙️ **Backend-Technologien & Datenbanken**
+### ⚙️ **Backend Technologies & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -29,7 +29,7 @@
 
 ---
 
-### 🖥️ **Betriebssysteme & DevOps**
+### 🖥️ **Operating Systems & DevOps**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -40,14 +40,14 @@
 
 ---
 
-### 🌐 **Netzwerkkenntnisse**
+### 🌐 **Networking Skills**
 ![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Subnetting](https://img.shields.io/badge/Subnetting-1572B6?style=for-the-badge&logo=internet-explorer&logoColor=white) 
 ![VM Networking](https://img.shields.io/badge/VM_Networking-E57000?style=for-the-badge&logo=virtualbox&logoColor=white)  
 
 ---
 
-### 📋 **Projektmanagement & Tools**
+### 📋 **Project Management & Tools**
 ![Taiga](https://img.shields.io/badge/Taiga-6CC644?style=for-the-badge&logo=taiga&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)  
@@ -58,9 +58,7 @@
 
 ---
 
-## 📫 **Kontakt**
+## 📫 **Contact**
 - 📧 **E-Mail**: darc@dnc.software  
-- 🌐 **Website**: [dnc.software](https://dnc.software)  
-- 💼 **GitHub**: [Darc22](https://github.com/Darc22)
 
 ---
