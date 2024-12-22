@@ -71,7 +71,9 @@
 
 ### 📋 **Project Management & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=obsidian,taiga,trello,vscode,visualstudio,neovim,vim" alt="Project Management & Tools" />
+  <img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,neovim,vim" alt="Project Management & Tools" />
+  <img src="https://img.shields.io/badge/Taiga-6CC644?style=for-the-badge&logo=taiga&logoColor=white" alt="Taiga" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 </div>
 
