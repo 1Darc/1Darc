@@ -42,7 +42,7 @@
 
 ### 🤖 **Machine Learning & AI**
 <div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow" />
 </div>
 
 ---
