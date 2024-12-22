@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,nginx" alt="Backend & Databases" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
 </div>
 
 ---
@@ -34,6 +35,14 @@
 ### 📡 **Networking & API Technologies**
 <div align="center">
   <img src="https://img.shields.io/badge/Requests-003545?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
+  <img src="https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
+</div>
+
+---
+
+### 🤖 **Machine Learning & AI**
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </div>
 
 ---
@@ -41,6 +50,7 @@
 ### 🖥️ **Operating Systems & DevOps**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,git,github,gitlab" alt="Operating Systems & Tools" />
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/FreeBSD-F44336?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
 </div>
 
@@ -48,7 +58,7 @@
 
 ### 🔍 **Testing & Automation Tools**
 <div align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" />
 </div>
 
 ---
