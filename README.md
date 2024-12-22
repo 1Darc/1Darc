@@ -1,9 +1,6 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20C0N7R01%20I5%20AN%20ILLUSI0N%20%5B%2A%5D%20%7C%7C;%7C%7C%20%5B%2A%5D%20fS0C13TY%20%5B%2A%5D%20%7C%7C" alt="Matrix Animation" />
 </div>
-
-
 
 ---
 
@@ -27,6 +24,8 @@
 ### ⚙️ **Backend Technologies & Databases**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" alt="Backend & Databases" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </div>
 
 ---
@@ -35,6 +34,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,git,github,gitlab" alt="Operating Systems & Tools" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
 </div>
 
 ---
