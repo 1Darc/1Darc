@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0F0&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20D4RC%20%5B%2A%5D%20%7C%7C;Welcome+to+the+Matrix+%F0%9F%91%80;Exploring+the+codebase+of+the+universe+%F0%9F%92%BB" alt="Matrix Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20D4RC%20%5B%2A%5D%20%7C%7C;Welcome+to+the+Matrix+%F0%9F%91%80;Exploring+the+codebase+of+the+universe+%F0%9F%92%BB" alt="Matrix Animation" />
 </div>
 
 ---
@@ -38,14 +38,22 @@
 
 ### 🌐 **Networking Skills**
 <div align="center">
-  🖧 Expertise in Networking, Bridge Configuration, Subnetting, and VM Networking with Proxmox.
+  <img src="https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Subnetting-1572B6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Subnetting" />
+  <img src="https://img.shields.io/badge/VM%20Networking-E57000?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VM Networking" />
 </div>
 
 ---
 
 ### 📋 **Project Management & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=taiga,trello,vscode,vim" alt="Project Management & Tools" />
+  <img src="https://img.shields.io/badge/Taiga-6CC644?style=for-the-badge&logo=taiga&logoColor=white" alt="Taiga" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" />
 </div>
 
 ---
