@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20D4RC%20%5B%2A%5D%20%7C%7C;Welcome+to+the+Matrix+%F0%9F%91%80;Exploring+the+codebase+of+the+universe+%F0%9F%92%BB" alt="Matrix Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20D4RC%20%5B%2A%5D%20%7C%7C" alt="Matrix Animation" />
 </div>
 
 ---
