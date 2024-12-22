@@ -24,10 +24,9 @@
 
 ### ⚙️ **Backend Technologies & Databases**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,nginx" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,nginx,npm" alt="Backend & Databases" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
 </div>
 
 ---
@@ -49,8 +48,7 @@
 
 ### 🖥️ **Operating Systems & DevOps**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,git,github,gitlab" alt="Operating Systems & Tools" />
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,git,github,gitlab" alt="Operating Systems & Tools" />
   <img src="https://img.shields.io/badge/FreeBSD-F44336?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
 </div>
 
