@@ -1,5 +1,3 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Darc22.Darc22&style=flat-square&logo=github)
-
 ## 🛠️ **My Skills & Technologies**
 
 ### 🌐 **Programming Languages**
