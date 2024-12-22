@@ -49,6 +49,7 @@
 ### 🖥️ **Operating Systems & DevOps**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bsd,windows,git,github,gitlab" alt="Operating Systems & Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cib-proxmox_%28CoreUI_Icons_v1.0.0%29.svg" alt="Proxmox VM"/>  
 </div>
 
 ---
