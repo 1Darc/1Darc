@@ -23,9 +23,8 @@
 
 ### ⚙️ **Backend Technologies & Databases**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" alt="Backend & Databases" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,nginx" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=apache" alt="Apache" />
 </div>
 
 ---
