@@ -1,7 +1,10 @@
 
-<div align="center" style="background-color:black; padding:20px; border-radius:10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF2400&background=000000&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20C0NTR0L%20I5%20AN%20ILLUSI0N%20%5B%2A%5D%20%7C%7C;%7C%7C%20%5B%2A%5D%20fS0C13TY%20%5B%2A%5D%20%7C%7C" alt="Glowing Neon Text" />
+<div align="center">
+  <marquee style="color:#FF0000; font-size:25px; font-family:'Fira Code'; width:800px;">
+    || [*] C0NTR0L I5 AN ILLUSI0N [*] ||  || [*] fS0C13TY [*] ||
+  </marquee>
 </div>
+
 
 
 
