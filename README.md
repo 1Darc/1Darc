@@ -1,14 +1,9 @@
 
-<div align="center">
-  <marquee style="color:#FF0000; font-size:25px; font-family:'Fira Code'; width:800px;">
+<div align="center" style="background-color:black; padding:20px; border-radius:10px;">
+  <marquee style="color:#FF4500; font-size:25px; font-family:'Fira Code'; width:800px;">
     || [*] C0NTR0L I5 AN ILLUSI0N [*] ||  || [*] fS0C13TY [*] ||
   </marquee>
 </div>
-
-
-
-
-
 
 
 ---
