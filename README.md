@@ -32,8 +32,7 @@
 ### 🖥️ **Operating Systems & DevOps**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,git,github,gitlab" alt="Operating Systems & Tools" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
+  <img src="https://img.shields.io/badge/FreeBSD-F44336?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
 </div>
 
 ---
