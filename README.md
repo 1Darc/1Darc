@@ -8,7 +8,7 @@
 
 ### 🌐 **Programming Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,bash,php,js,jinja" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,bash,php,js" alt="Programming Languages" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
 </div>
