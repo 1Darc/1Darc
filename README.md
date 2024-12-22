@@ -10,7 +10,8 @@
 
 ### 🌐 **Programming Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,bash,php,js,sql" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,bash,php,js" alt="Programming Languages" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
 </div>
 
 ---
@@ -31,7 +32,8 @@
 
 ### 🖥️ **Operating Systems & DevOps**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,git,github,gitlab,proxmox" alt="Operating Systems & Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,git,github,gitlab" alt="Operating Systems & Tools" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
 </div>
 
 ---
