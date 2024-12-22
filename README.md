@@ -1,10 +1,7 @@
 
-<div align="center" style="background-color:black; padding:20px; border-radius:10px;">
-  <marquee style="color:#FF4500; font-size:25px; font-family:'Fira Code'; width:800px;">
-    || [*] C0NTR0L I5 AN ILLUSI0N [*] ||  || [*] fS0C13TY [*] ||
-  </marquee>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF4500&background=000000&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20🔥C0NTR0L%20I5%20AN%20ILLUSI0N🔥%20%5B%2A%5D%20%7C%7C;%7C%7C%20%5B%2A%5D%20🔥fS0C13TY🔥%20%5B%2A%5D%20%7C%7C" alt="Fire Simulation" />
 </div>
-
 
 ---
 
