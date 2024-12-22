@@ -31,7 +31,7 @@
 
 ### 🖥️ **Operating Systems & DevOps**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,freebsd,git,github,gitlab" alt="Operating Systems & Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,git,github,gitlab" alt="Operating Systems & Tools" />
   <img src="https://img.shields.io/badge/FreeBSD-F44336?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
 </div>
 
