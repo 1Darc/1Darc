@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20C0NTR0L%20I5%20AN%20ILLUSI0N%20%5B%2A%5D%20%7C%7C;%7C%7C%20%5B%2A%5D%20fS0C13TY%20%5B%2A%5D%20%7C%7C" alt="Matrix Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=%7C%7C%20%5B%2A%5D%20C0NTR0L%20I5%20AN%20ILLUSI0N%20%5B%2A%5D%20%7C%7C;%7C%7C%20%5B%2A%5D%20fS0C13TY%20%5B%2A%5D%20%7C%7C;%7C%7C%20%5B%2A%5D%20TH3%20TRU7H%20I5%20C0D3%20%5B%2A%5D%20%7C%7C;%7C%7C%20%5B%2A%5D%20L1V3%20W1TH0UT%20FEAR%20%5B%2A%5D%20%7C%7C" alt="Matrix Animation" />
 </div>
+
 
 ---
 
