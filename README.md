@@ -44,7 +44,6 @@
 ![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Subnetting](https://img.shields.io/badge/Subnetting-1572B6?style=for-the-badge&logo=internet-explorer&logoColor=white) 
 ![VM Networking](https://img.shields.io/badge/VM_Networking-E57000?style=for-the-badge&logo=virtualbox&logoColor=white)  
-Bridge-Konfiguration, Subnetting und Netzwerkeinrichtung mit Proxmox.
 
 ---
 
