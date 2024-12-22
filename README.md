@@ -1,3 +1,4 @@
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Darc22.Darc22)
 ## 🛠️ **My Skills & Technologies**
 
 ### 🌐 **Programming Languages**
