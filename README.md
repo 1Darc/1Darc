@@ -7,7 +7,6 @@
   <br/>
 
   <img src="https://komarev.com/ghpvc/?username=1Darc&label=Profile+Views&color=B91C1C&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/1Darc?label=Followers&style=for-the-badge&color=B91C1C&labelColor=0d1117" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Web%20AppSec%20%26%20Offensive%20Security-B91C1C?style=for-the-badge&labelColor=0d1117" alt="Focus" />
 
 </div>
