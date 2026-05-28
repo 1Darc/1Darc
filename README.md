@@ -15,6 +15,7 @@
 ---
 
 > // Every dependency is a decision. Every binary, a debt.
+> </br>
 > // fck big tech · own your stack
 
 ---
