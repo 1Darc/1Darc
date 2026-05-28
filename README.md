@@ -14,8 +14,8 @@
 
 ---
 
-> Every system speaks in layers. Most only listen to the top one.
-> I work the rest.
+> // Every dependency is a decision. Every binary, a debt.
+> // fck big tech · own your stack
 
 ---
 
